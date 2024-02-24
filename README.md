@@ -13,9 +13,12 @@ MyRecipeApp is a modern Android application built with Jetpack Compose and Retro
 
 ## Screenshots
 <!-- Include screenshots or GIFs of your app here to give users a visual representation of what your app looks like. -->
-![Screenshot 1](Screenshots/ss1.png)
+![Screenshot 1](Screenshots/ss1.png) 
+&nbsp;&nbsp;
 ![Screenshot 2](Screenshots/ss2.png)
+<!-- -->
 ![Screenshot 3](Screenshots/ss3.png)
+<!-- -->
 ![Screenshot 4](Screenshots/ss4.png)
 
 ## Tech Stack
@@ -27,7 +30,7 @@ MyRecipeApp is a modern Android application built with Jetpack Compose and Retro
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/MyRecipeApp.git
+    git clone https://github.com/nishkarsh25/MyRecipeApp.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the project on an emulator or physical device.
@@ -51,5 +54,7 @@ This project is licensed under the [The 3-Clause BSD License](LICENSE).
 
 ## Contact
 If you have any questions or suggestions, feel free to contact the project owner:
-Nishkarsh Gupta
+
+Author: Nishkarsh Gupta
+
 Email: bm21btech11016@iith.ac.in
